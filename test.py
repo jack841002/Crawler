@@ -20,7 +20,7 @@ for art in articles:
     print(art["href"], art.text)
 
 paging = soup.select("div.btn-group-paging a")
-
+..
 """
 
 import requests
